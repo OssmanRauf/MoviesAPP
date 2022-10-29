@@ -1,6 +1,6 @@
 # MoviesAPP
 
-<h2 align="center">MoviesAPP to getinformations about movies</h2>
+<h2 align="center">MoviesAPP to get informations about movies</h2>
 
 ### Demo Link: [MoviesApp](https://OssmanRauf.github.io/MoviesAPP/)
 
